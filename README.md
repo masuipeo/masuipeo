@@ -19,6 +19,7 @@
 - [『Excelで学び直す数学』](https://www.amazon.co.jp/dp/4863543301)
 - [『プログラマを育てる脳トレパズル』](https://www.amazon.co.jp/dp/4798163821)
 - [『RとPythonで学ぶ統計学入門』](https://www.amazon.co.jp/dp/4274227057)
+- [『IT用語図鑑[エンジニア編]』](https://www.amazon.co.jp/dp/4798169102)
 
 ## URL
 
