@@ -21,6 +21,10 @@
 - [『RとPythonで学ぶ統計学入門』](https://www.amazon.co.jp/dp/4274227057)
 - [『IT用語図鑑[エンジニア編]』](https://www.amazon.co.jp/dp/4798169102)
 - [『図解まるわかり アルゴリズムのしくみ』](https://www.amazon.co.jp/dp/4798171603)
+- [『基礎からのWeb開発リテラシー』](https://www.amazon.co.jp/dp/4297129078)
+- [『図解まるわかり データサイエンスのしくみ』](https://www.amazon.co.jp/dp/4798175803)
+- [『「技術書」の読書術』](https://www.amazon.co.jp/dp/4798171549)
+- [『iPhone1台で学ぶプログラミング』](https://www.amazon.co.jp/dp/4798179590)
 
 ## URL
 
