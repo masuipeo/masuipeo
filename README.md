@@ -25,6 +25,10 @@
 - [『図解まるわかり データサイエンスのしくみ』](https://www.amazon.co.jp/dp/4798175803)
 - [『「技術書」の読書術』](https://www.amazon.co.jp/dp/4798171549)
 - [『iPhone1台で学ぶプログラミング』](https://www.amazon.co.jp/dp/4798179590)
+- [『どうしてこうなった？セキュリティの笑えないミスとその対策51』](https://www.amazon.co.jp/dp/4798180262)
+- [『1週間でシステム開発の基礎が学べる本』](https://www.amazon.co.jp/dp/4295016802)
+- [『Obsidianで“育てる”最強ノート術』](https://www.amazon.co.jp/dp/4297137194)
+- [『実務で使える メール技術の教科書』](https://www.amazon.co.jp/dp/4798183938)
 
 ## URL
 
