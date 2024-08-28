@@ -29,6 +29,7 @@
 - [『1週間でシステム開発の基礎が学べる本』](https://www.amazon.co.jp/dp/4295016802)
 - [『Obsidianで“育てる”最強ノート術』](https://www.amazon.co.jp/dp/4297137194)
 - [『実務で使える メール技術の教科書』](https://www.amazon.co.jp/dp/4798183938)
+- [『データ分析に強くなるSQLレシピ』](https://www.amazon.co.jp/dp/4295019844)
 
 ## URL
 
